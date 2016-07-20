@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<parent>
+		<groupId>de.allianz.portal.core.base</groupId>
+		<artifactId>base-configuration</artifactId>
+		<version>RELEASE</version>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>jstoolchain</groupId>
+	<artifactId>test-release-jstoolchain</artifactId>
+	<version>0.0.12-SNAPSHOT</version>
+
+	<scm>
+		<connection>scm:svn:https://github.com/externpatron/testRepo.git/test-release-jstoolchain</connection>
+		<developerConnection>scm:svn:https://github.com/externpatron/testRepo.git/test-release-jstoolchain</developerConnection>
+		<url>https://github.com/externpatron/testRepo.git/test-release-jstoolchain</url>
+	</scm>
+</project>

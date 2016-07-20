@@ -10,8 +10,8 @@
 	<version>0.0.12-SNAPSHOT</version>
 
 	<scm>
-		<connection>scm:svn:https://github.com/externpatron/testRepo.git/test-release-jstoolchain</connection>
-		<developerConnection>scm:svn:https://github.com/externpatron/testRepo.git/test-release-jstoolchain</developerConnection>
-		<url>https://github.com/externpatron/testRepo.git/test-release-jstoolchain</url>
+		<connection>scm:svn:https://github.com/externpatron/testRepo.git/test-release-jstoolchain-git1</connection>
+		<developerConnection>scm:svn:https://github.com/externpatron/testRepo.git/test-release-jstoolchain-git1</developerConnection>
+		<url>https://github.com/externpatron/testRepo.git/test-release-jstoolchain-git1</url>
 	</scm>
 </project>
